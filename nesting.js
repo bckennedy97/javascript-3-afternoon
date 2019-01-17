@@ -50,9 +50,6 @@ var employees = [
     3. Return the updated employee array.
 */
 
-//Code Here
-
-
 
 ////////// PROBLEM 2 //////////
 
